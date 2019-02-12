@@ -13,6 +13,7 @@
 		332400472212B51600D91011 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 332400462212B51600D91011 /* Assets.xcassets */; };
 		3324004A2212B51600D91011 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 332400482212B51600D91011 /* LaunchScreen.storyboard */; };
 		3324004D2212B51600D91011 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3324004C2212B51600D91011 /* main.m */; };
+		332400552212B55A00D91011 /* SKGCDTimerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 332400532212B55A00D91011 /* SKGCDTimerManager.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		332400492212B51600D91011 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3324004B2212B51600D91011 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3324004C2212B51600D91011 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		332400532212B55A00D91011 /* SKGCDTimerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKGCDTimerManager.m; sourceTree = "<group>"; };
+		332400542212B55A00D91011 /* SKGCDTimerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKGCDTimerManager.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 		3324003C2212B51500D91011 /* SKGCDTimer */ = {
 			isa = PBXGroup;
 			children = (
+				332400542212B55A00D91011 /* SKGCDTimerManager.h */,
+				332400532212B55A00D91011 /* SKGCDTimerManager.m */,
 				3324003D2212B51500D91011 /* AppDelegate.h */,
 				3324003E2212B51500D91011 /* AppDelegate.m */,
 				332400402212B51500D91011 /* ViewController.h */,
@@ -143,6 +148,7 @@
 			files = (
 				332400422212B51500D91011 /* ViewController.m in Sources */,
 				3324004D2212B51600D91011 /* main.m in Sources */,
+				332400552212B55A00D91011 /* SKGCDTimerManager.m in Sources */,
 				3324003F2212B51500D91011 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
