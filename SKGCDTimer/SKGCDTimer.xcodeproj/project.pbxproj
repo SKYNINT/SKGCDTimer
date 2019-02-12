@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3324001D2212B49600D91011 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3324001C2212B49600D91011 /* AppDelegate.m */; };
-		332400202212B49600D91011 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3324001F2212B49600D91011 /* ViewController.m */; };
-		332400232212B49600D91011 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 332400212212B49600D91011 /* Main.storyboard */; };
-		332400252212B49A00D91011 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 332400242212B49A00D91011 /* Assets.xcassets */; };
-		332400282212B49A00D91011 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 332400262212B49A00D91011 /* LaunchScreen.storyboard */; };
-		3324002B2212B49A00D91011 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3324002A2212B49A00D91011 /* main.m */; };
+		3324003F2212B51500D91011 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3324003E2212B51500D91011 /* AppDelegate.m */; };
+		332400422212B51500D91011 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 332400412212B51500D91011 /* ViewController.m */; };
+		332400452212B51500D91011 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 332400432212B51500D91011 /* Main.storyboard */; };
+		332400472212B51600D91011 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 332400462212B51600D91011 /* Assets.xcassets */; };
+		3324004A2212B51600D91011 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 332400482212B51600D91011 /* LaunchScreen.storyboard */; };
+		3324004D2212B51600D91011 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3324004C2212B51600D91011 /* main.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		332400182212B49600D91011 /* SKGCDTimerManager.m SKGCDTimerManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SKGCDTimerManager.m SKGCDTimerManager.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3324001B2212B49600D91011 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		3324001C2212B49600D91011 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		3324001E2212B49600D91011 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		3324001F2212B49600D91011 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		332400222212B49600D91011 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		332400242212B49A00D91011 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		332400272212B49A00D91011 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		332400292212B49A00D91011 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3324002A2212B49A00D91011 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3324003A2212B51500D91011 /* SKGCDTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SKGCDTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3324003D2212B51500D91011 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3324003E2212B51500D91011 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		332400402212B51500D91011 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		332400412212B51500D91011 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		332400442212B51500D91011 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		332400462212B51600D91011 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		332400492212B51600D91011 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3324004B2212B51600D91011 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3324004C2212B51600D91011 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		332400152212B49600D91011 /* Frameworks */ = {
+		332400372212B51500D91011 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,72 +39,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3324000F2212B49600D91011 = {
+		332400312212B51500D91011 = {
 			isa = PBXGroup;
 			children = (
-				3324001A2212B49600D91011 /* SKGCDTimerManager.m SKGCDTimerManager */,
-				332400192212B49600D91011 /* Products */,
+				3324003C2212B51500D91011 /* SKGCDTimer */,
+				3324003B2212B51500D91011 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		332400192212B49600D91011 /* Products */ = {
+		3324003B2212B51500D91011 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				332400182212B49600D91011 /* SKGCDTimerManager.m SKGCDTimerManager.app */,
+				3324003A2212B51500D91011 /* SKGCDTimer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3324001A2212B49600D91011 /* SKGCDTimerManager.m SKGCDTimerManager */ = {
+		3324003C2212B51500D91011 /* SKGCDTimer */ = {
 			isa = PBXGroup;
 			children = (
-				3324001B2212B49600D91011 /* AppDelegate.h */,
-				3324001C2212B49600D91011 /* AppDelegate.m */,
-				3324001E2212B49600D91011 /* ViewController.h */,
-				3324001F2212B49600D91011 /* ViewController.m */,
-				332400212212B49600D91011 /* Main.storyboard */,
-				332400242212B49A00D91011 /* Assets.xcassets */,
-				332400262212B49A00D91011 /* LaunchScreen.storyboard */,
-				332400292212B49A00D91011 /* Info.plist */,
-				3324002A2212B49A00D91011 /* main.m */,
+				3324003D2212B51500D91011 /* AppDelegate.h */,
+				3324003E2212B51500D91011 /* AppDelegate.m */,
+				332400402212B51500D91011 /* ViewController.h */,
+				332400412212B51500D91011 /* ViewController.m */,
+				332400432212B51500D91011 /* Main.storyboard */,
+				332400462212B51600D91011 /* Assets.xcassets */,
+				332400482212B51600D91011 /* LaunchScreen.storyboard */,
+				3324004B2212B51600D91011 /* Info.plist */,
+				3324004C2212B51600D91011 /* main.m */,
 			);
-			path = "SKGCDTimerManager.m SKGCDTimerManager";
+			path = SKGCDTimer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		332400172212B49600D91011 /* SKGCDTimerManager.m SKGCDTimerManager */ = {
+		332400392212B51500D91011 /* SKGCDTimer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3324002E2212B49A00D91011 /* Build configuration list for PBXNativeTarget "SKGCDTimerManager.m SKGCDTimerManager" */;
+			buildConfigurationList = 332400502212B51600D91011 /* Build configuration list for PBXNativeTarget "SKGCDTimer" */;
 			buildPhases = (
-				332400142212B49600D91011 /* Sources */,
-				332400152212B49600D91011 /* Frameworks */,
-				332400162212B49600D91011 /* Resources */,
+				332400362212B51500D91011 /* Sources */,
+				332400372212B51500D91011 /* Frameworks */,
+				332400382212B51500D91011 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "SKGCDTimerManager.m SKGCDTimerManager";
-			productName = "SKGCDTimerManager.m SKGCDTimerManager";
-			productReference = 332400182212B49600D91011 /* SKGCDTimerManager.m SKGCDTimerManager.app */;
+			name = SKGCDTimer;
+			productName = SKGCDTimer;
+			productReference = 3324003A2212B51500D91011 /* SKGCDTimer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		332400102212B49600D91011 /* Project object */ = {
+		332400322212B51500D91011 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = sky;
 				TargetAttributes = {
-					332400172212B49600D91011 = {
+					332400392212B51500D91011 = {
 						CreatedOnToolsVersion = 10.1;
 					};
 				};
 			};
-			buildConfigurationList = 332400132212B49600D91011 /* Build configuration list for PBXProject "SKGCDTimerManager.m SKGCDTimerManager" */;
+			buildConfigurationList = 332400352212B51500D91011 /* Build configuration list for PBXProject "SKGCDTimer" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,55 +113,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 3324000F2212B49600D91011;
-			productRefGroup = 332400192212B49600D91011 /* Products */;
+			mainGroup = 332400312212B51500D91011;
+			productRefGroup = 3324003B2212B51500D91011 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				332400172212B49600D91011 /* SKGCDTimerManager.m SKGCDTimerManager */,
+				332400392212B51500D91011 /* SKGCDTimer */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		332400162212B49600D91011 /* Resources */ = {
+		332400382212B51500D91011 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				332400282212B49A00D91011 /* LaunchScreen.storyboard in Resources */,
-				332400252212B49A00D91011 /* Assets.xcassets in Resources */,
-				332400232212B49600D91011 /* Main.storyboard in Resources */,
+				3324004A2212B51600D91011 /* LaunchScreen.storyboard in Resources */,
+				332400472212B51600D91011 /* Assets.xcassets in Resources */,
+				332400452212B51500D91011 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		332400142212B49600D91011 /* Sources */ = {
+		332400362212B51500D91011 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				332400202212B49600D91011 /* ViewController.m in Sources */,
-				3324002B2212B49A00D91011 /* main.m in Sources */,
-				3324001D2212B49600D91011 /* AppDelegate.m in Sources */,
+				332400422212B51500D91011 /* ViewController.m in Sources */,
+				3324004D2212B51600D91011 /* main.m in Sources */,
+				3324003F2212B51500D91011 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		332400212212B49600D91011 /* Main.storyboard */ = {
+		332400432212B51500D91011 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				332400222212B49600D91011 /* Base */,
+				332400442212B51500D91011 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		332400262212B49A00D91011 /* LaunchScreen.storyboard */ = {
+		332400482212B51600D91011 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				332400272212B49A00D91011 /* Base */,
+				332400492212B51600D91011 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -168,7 +169,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		3324002C2212B49A00D91011 /* Debug */ = {
+		3324004E2212B51600D91011 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -227,7 +228,7 @@
 			};
 			name = Debug;
 		};
-		3324002D2212B49A00D91011 /* Release */ = {
+		3324004F2212B51600D91011 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,35 +281,35 @@
 			};
 			name = Release;
 		};
-		3324002F2212B49A00D91011 /* Debug */ = {
+		332400512212B51600D91011 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4BDKXMPX7Y;
-				INFOPLIST_FILE = "SKGCDTimerManager.m SKGCDTimerManager/Info.plist";
+				INFOPLIST_FILE = SKGCDTimer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "sky.SKGCDTimerManager-m-SKGCDTimerManager";
+				PRODUCT_BUNDLE_IDENTIFIER = sky.SKGCDTimer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		332400302212B49A00D91011 /* Release */ = {
+		332400522212B51600D91011 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4BDKXMPX7Y;
-				INFOPLIST_FILE = "SKGCDTimerManager.m SKGCDTimerManager/Info.plist";
+				INFOPLIST_FILE = SKGCDTimer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "sky.SKGCDTimerManager-m-SKGCDTimerManager";
+				PRODUCT_BUNDLE_IDENTIFIER = sky.SKGCDTimer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -317,25 +318,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		332400132212B49600D91011 /* Build configuration list for PBXProject "SKGCDTimerManager.m SKGCDTimerManager" */ = {
+		332400352212B51500D91011 /* Build configuration list for PBXProject "SKGCDTimer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3324002C2212B49A00D91011 /* Debug */,
-				3324002D2212B49A00D91011 /* Release */,
+				3324004E2212B51600D91011 /* Debug */,
+				3324004F2212B51600D91011 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3324002E2212B49A00D91011 /* Build configuration list for PBXNativeTarget "SKGCDTimerManager.m SKGCDTimerManager" */ = {
+		332400502212B51600D91011 /* Build configuration list for PBXNativeTarget "SKGCDTimer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3324002F2212B49A00D91011 /* Debug */,
-				332400302212B49A00D91011 /* Release */,
+				332400512212B51600D91011 /* Debug */,
+				332400522212B51600D91011 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 332400102212B49600D91011 /* Project object */;
+	rootObject = 332400322212B51500D91011 /* Project object */;
 }
